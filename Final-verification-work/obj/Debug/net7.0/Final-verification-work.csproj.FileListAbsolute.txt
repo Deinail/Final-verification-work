@@ -1,0 +1,15 @@
+D:\Final-verification-work\bin\Debug\net7.0\Final-verification-work.exe
+D:\Final-verification-work\bin\Debug\net7.0\Final-verification-work.deps.json
+D:\Final-verification-work\bin\Debug\net7.0\Final-verification-work.runtimeconfig.json
+D:\Final-verification-work\bin\Debug\net7.0\Final-verification-work.dll
+D:\Final-verification-work\bin\Debug\net7.0\Final-verification-work.pdb
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.csproj.AssemblyReference.cache
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.AssemblyInfoInputs.cache
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.AssemblyInfo.cs
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.csproj.CoreCompileInputs.cache
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.dll
+D:\Final-verification-work\obj\Debug\net7.0\refint\Final-verification-work.dll
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.pdb
+D:\Final-verification-work\obj\Debug\net7.0\Final-verification-work.genruntimeconfig.cache
+D:\Final-verification-work\obj\Debug\net7.0\ref\Final-verification-work.dll
